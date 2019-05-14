@@ -1,0 +1,1 @@
+The tester.py was also included to show that I had to change the method of splitting using the StratifiedShuffleSplit object, due to version changes in sklearn (line 28 and 33 of tester.py).
